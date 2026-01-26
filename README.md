@@ -2,43 +2,41 @@
 
 🎓 Engineering student in Computer Science  
 📍 Centrale Lyon × Xi’an Jiaotong University  
-🔬 Interests: artificial intelligence, data science, applied machine learning & research
+🔬 Interests: artificial intelligence, data science and machine learning applied to real-world and research problems
 
-I’m passionate about building rigorous, meaningful projects at the intersection of **computer science**, **data analysis**, and **scientific research**.  
-My work spans from applied machine learning and data visualization to research-oriented projects.
-
----
-
-### 🔎 Research & Publications
-- Google Scholar: https://scholar.google.com/citations?user=GLPha1AAAAAJ
-- Research interests: machine learning, data analysis, applied statistics
+I work on projects at the intersection of computer science, data analysis, and machine learning, with a strong focus on rigor, interpretability and practical relevance.  
+My work includes both applied projects and research-oriented studies, particularly in data-driven analysis and modeling.
 
 ---
 
 ### 💻 Selected Projects
-- 🏓 Analysis of table tennis service–return patterns using data science & ML
-- 📊 Data analysis, visualization & decision-support tools
 
-(Details and additional projects available on my website.)
+- 🏓 Data-driven analysis of table tennis service–return patterns using machine learning  
+- 📊 Data analysis, visualization and decision-support tools  
+
+(Additional projects and details are available on my website.)
 
 ---
 
 ### 🛠️ Tools & Technologies
-**Languages & Data**  
-Python · SQL · C · JavaScript · TypeScript
+
+**Programming languages & Database**  
+Python · SQL · C · JavaScript · TypeScript · OCaml
 
 **Machine Learning & Data Science**  
 PyTorch · scikit-learn · Pandas · NumPy · Dash · Plotly
 
 **Web & Systems**  
-React · Next.js · Firebase · GitHub · Linux
+React · Next.js · Firebase · GitHub · GitLab · Linux
 
 ---
 
 ### 🌐 Links
-- 🌍 Website: https://riadattou.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/riad-attou
+
+- 🌍 Website: <https://riadattou.com>
+- 📚 Google Scholar: <https://scholar.google.com/citations?user=GLPha1AAAAAJ>
+- 💼 LinkedIn: <https://www.linkedin.com/in/riad-attou>
 
 ---
 
-📫 Feel free to explore my repositories or reach out for collaborations, research discussions, or project ideas.
+📫 Feel free to explore my repositories or reach out for collaborations or project discussions.
