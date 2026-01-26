@@ -4,7 +4,7 @@
 📍 Centrale Lyon × Xi’an Jiaotong University  
 🔬 Interests: artificial intelligence, data science and machine learning applied to real-world and research problems
 
-I work on projects at the intersection of computer science, data analysis, and machine learning, with a strong focus on rigor, interpretability and practical relevance.  
+I work on projects at the intersection of computer science, data analysis, and machine learning, with a strong focus practical relevance.
 My work includes both applied projects and research-oriented studies, particularly in data-driven analysis and modeling.
 
 ---
@@ -21,7 +21,7 @@ My work includes both applied projects and research-oriented studies, particular
 ### 🛠️ Tools & Technologies
 
 **Programming languages & Database**  
-Python · SQL · C · JavaScript · TypeScript · OCaml
+Python · SQL · C · JavaScript · TypeScript · OCaml · MATLAB
 
 **Machine Learning & Data Science**  
 PyTorch · scikit-learn · Pandas · NumPy · Dash · Plotly
