@@ -114,7 +114,7 @@ with a strong emphasis on performance, interpretability, and real-world usabilit
 ## 🌍 Connect With Me
 
 <p>
-  <a href="https://riadattou.com">
+  <a href="https://riadattou.com/en">
     <img src="https://img.shields.io/badge/Website-riadattou.com-1f6feb?style=for-the-badge">
   </a>
   <a href="https://scholar.google.com/citations?user=GLPha1AAAAAJ">
