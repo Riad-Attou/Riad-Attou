@@ -119,11 +119,20 @@ with a strong emphasis on performance, interpretability, and real-world usabilit
 
 ## 🌍 Connect With Me
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Website-riadattou.com-1f6feb?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Scholar-Research-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Riad%20Attou-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-attou.rd%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p>
+  <a href="https://riadattou.com/en">
+    <img src="https://img.shields.io/badge/Website-riadattou.com-1f6feb?style=for-the-badge">
+  </a>
+  </a>
+  <a href="https://scholar.google.com/citations?user=GLPha1AAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/riad-attou">
+    <img src="https://img.shields.io/badge/LinkedIn-Riad%20Attou-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:attou.rd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-attou.rd%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
