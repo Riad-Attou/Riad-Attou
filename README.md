@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1F4068,100:0A192F&height=230&section=header&text=Riad%20Attou&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineering%20Student%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Science&descAlignY=58&descSize=20" 
     width="100%" 
   />
@@ -8,7 +8,7 @@
 
 <div align="center" style="margin-top:-35px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=1F6FEB&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineering+Student;Building+Machine+Learning+Systems;Centrale+Lyon+x+Xian+Jiaotong+University"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=1F6FEB&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineering+Student;Building+Machine+Learning+Systems;Centrale+Lyon+x+Xi'an+Jiaotong+University"
     width="100%"
   />
 </div>
