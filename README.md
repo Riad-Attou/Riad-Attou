@@ -45,32 +45,25 @@ with a strong emphasis on performance, interpretability, and real-world usabilit
 🌍 Open to research and industry collaborations
 
 
-
 ## 🏓 Selected Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### 🧠 Machine Learning Research
 
-- Built clustering and predictive models to analyze elite table tennis service–return patterns  
-- Applied statistical testing and ML pipelines to uncover performance structures  
-- Developed reproducible data workflows using Python, Pandas and scikit-learn  
+Built clustering and predictive models to analyze elite table tennis service–return patterns.
 
-</td>
+- Designed end-to-end ML pipelines  
+- Applied statistical hypothesis testing  
+- Developed reproducible workflows in Python (Pandas, scikit-learn)
 
-<td width="50%" valign="top">
 
 ### 📊 Data & Decision Systems
 
-- Designed interactive dashboards using Plotly & Dash  
-- Built decision-support tools based on statistical modeling  
-- Implemented structured data pipelines for real-world datasets  
+Designed interactive and data-driven decision systems.
 
-</td>
-</tr>
-</table>
+- Built dashboards using Plotly & Dash  
+- Implemented structured data pipelines  
+- Developed statistical modeling tools for real-world datasets
+
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
