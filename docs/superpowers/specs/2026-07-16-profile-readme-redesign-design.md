@@ -88,22 +88,22 @@ Concise prose, no badge row. Example shape:
 
 ### 4. Selected Projects — real, linked
 
-Replace the two unlinked, generic blurbs ("table tennis ML", "decision
-systems") with concrete repositories, each as: **title → one line (what +
-method/result) → link**. Proposed set (final selection confirmed with owner):
+Each project as: **title → one line (what + method/result) → link**.
+Final set (4), spanning research, medical ML, game AI, and optimization:
 
-1. **Myeloid leukemia survival prediction** — `qrt_ml`. Predicts overall
+1. **Table-tennis service–return analysis** — the owner's research project.
+   Clustering and predictive modeling of elite service–return patterns.
+   Link → Google Scholar (`GLPha1AAAAAJ`). (Research flagship — kept per owner.)
+2. **Myeloid leukemia survival prediction** — `qrt_ml`. Predicts overall
    survival from medical data; QRT 2024–2025 Data Challenge with Institut
-   Gustave Roussy. (Flagship — real challenge, medical ML.)
-2. **Go AI** — `go-ai-app`. Full Go game (Pygame) with a Minimax +
+   Gustave Roussy.
+3. **Go AI** — `go-ai-app`. Full Go game (Pygame) with a Minimax +
    alpha-beta-pruning opponent and tutorial mode.
-3. **Ant Colony Optimization** — `ant-colony-optimization`. Metaheuristic solver
+4. **Ant Colony Optimization** — `ant-colony-optimization`. Metaheuristic solver
    for graph optimization problems, with visualization.
 
-Optional 4th slot for `hydrological-experiments` (XJTU Smart Water Lab) if a
-fourth is wanted. The current "table-tennis service–return" research may be kept
-if it is a real, ongoing project the owner wants featured — needs a link
-(riadattou.com or a repo). **Open item for owner review.**
+The prior generic "decision systems" blurb is dropped. `hydrological-experiments`
+(XJTU) is intentionally **not** featured, per owner.
 
 ### 5. Tech stack — trimmed badge row (chosen)
 
@@ -151,9 +151,9 @@ Remove the footer waving banner.
 4. **Mobile** — check the profile on a narrow viewport; header scales, no
    horizontal overflow.
 
-## Open items for owner review
+## Resolved decisions
 
-1. Final project selection (default: qrt_ml, go-ai-app, ant-colony-optimization;
-   keep table-tennis research only if a link exists).
-2. Final tech-stack list (default 8 above).
-3. Whether to feature `hydrological-experiments` as a 4th project.
+1. Projects: table-tennis research (kept, linked to Google Scholar) + `qrt_ml`
+   + `go-ai-app` + `ant-colony-optimization`. "Decision systems" dropped.
+2. Tech stack: Python, PyTorch, scikit-learn, Pandas, NumPy, SQL, C, TypeScript.
+3. `hydrological-experiments` (XJTU) not featured.
