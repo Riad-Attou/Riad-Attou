@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Riad Attou — AI &amp; Data Science Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A192F"/>
+      <stop offset="0.55" stop-color="#132A4D"/>
+      <stop offset="1" stop-color="#0A192F"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1F6FEB" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.7;0.7;-0.7" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.3;1.7;0.3" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- faint data-point constellation (evokes data, stays subtle) -->
+  <g stroke="#1F6FEB" stroke-opacity="0.14" stroke-width="1">
+    <line x1="930" y1="150" x2="1010" y2="90"/>
+    <line x1="1010" y1="90" x2="1090" y2="140"/>
+    <line x1="1010" y1="90" x2="1000" y2="200"/>
+    <line x1="1000" y1="200" x2="1090" y2="140"/>
+    <line x1="930" y1="150" x2="1000" y2="200"/>
+  </g>
+  <g fill="#1F6FEB">
+    <circle cx="930" cy="150" r="3" fill-opacity="0.35">
+      <animate attributeName="fill-opacity" values="0.2;0.5;0.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="90" r="3.5" fill-opacity="0.45">
+      <animate attributeName="fill-opacity" values="0.25;0.6;0.25" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="140" r="2.5" fill-opacity="0.3">
+      <animate attributeName="fill-opacity" values="0.15;0.45;0.15" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="200" r="2.5" fill-opacity="0.3">
+      <animate attributeName="fill-opacity" values="0.2;0.5;0.2" dur="6.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name -->
+  <text x="72" y="140" fill="#FFFFFF" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="1">Riad Attou</text>
+
+  <!-- animated accent underline: base + moving sheen highlight -->
+  <rect x="74" y="162" width="168" height="4" rx="2" fill="#1F6FEB" fill-opacity="0.28"/>
+  <rect x="74" y="162" width="168" height="4" rx="2" fill="url(#sheen)"/>
+
+  <!-- subtitle -->
+  <text x="74" y="206" fill="#C7D0D9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="0.4">AI &amp; Data Science Engineer · Machine Learning · Data</text>
+
+  <!-- affiliation -->
+  <text x="74" y="240" fill="#8AA0B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="0.4">Centrale Lyon × Xi'an Jiaotong University</text>
+</svg>
