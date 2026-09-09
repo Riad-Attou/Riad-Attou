@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Riad Attou — AI &amp; Data Science Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Riad Attou — AI &amp; Software Development">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0A192F"/>
@@ -47,7 +47,7 @@
   <rect x="74" y="162" width="168" height="4" rx="2" fill="url(#sheen)"/>
 
   <!-- subtitle -->
-  <text x="74" y="206" fill="#C7D0D9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="0.4">AI &amp; Data Science Engineer · Machine Learning · Data</text>
+  <text x="74" y="206" fill="#C7D0D9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="0.4">AI &amp; Software Development · Machine Learning · Mobile</text>
 
   <!-- affiliation -->
   <text x="74" y="240" fill="#8AA0B8" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="0.4">Centrale Lyon × Xi'an Jiaotong University</text>
