@@ -18,6 +18,8 @@ I'm an engineering student pursuing dual degrees at **Centrale Lyon** and **Xi'a
 
 **[Analysis of service returns in table tennis](https://link.springer.com/chapter/10.1007/978-3-032-15165-0_1)** · 2024–2025 — Analyzed professional match data to understand how players adapt their returns to incoming serves. Machine-learning workflows, statistical analysis, and an interactive Plotly Dash dashboard. [Code](https://github.com/centralelyon/table-tennis-returns) · [HAL](https://hal.science/hal-05201121)
 
+**[KineTrace](https://github.com/Riad-Attou/kinetrace)** · 2026 — A local-first monocular motion-capture studio that turns an ordinary single-camera video of one person into synchronized 2D and 3D pose data, including articulated hands. A FastAPI pipeline fuses MediaPipe or NVIDIA GEM-X landmarks, auto-calibrates a skeleton with no T-pose, then solves bone lengths, foot contacts, and root motion before exporting JSON, BVH, or MetaHuman-ready motion.
+
 **[Go game with AI](https://github.com/Riad-Attou/go-ai-app)** · 2023–2024 — A playable Go application with a complete Pygame interface, and an AI opponent built on Minimax, alpha-beta pruning, and Principal Variation Search, alongside tutorial, automatic scoring, and human-versus-computer modes.
 
 **[Myeloid leukemia survival prediction](https://github.com/Riad-Attou/qrt_ml)** · 2025 — A machine-learning pipeline for the QRT 2024–2025 Data Challenge predicting overall survival from clinical data, exploring survival-analysis methods and gradient-boosted trees including LightGBM. Organized with Gustave Roussy.
