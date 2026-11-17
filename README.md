@@ -10,7 +10,6 @@ I'm an engineering student pursuing dual degrees at **Centrale Lyon** and **Xi'a
 
 - 📱 Building **[Revelto](https://revelto.app)**, a workout tracking app for iOS & Android
 - 🎓 M.Sc. Computer Science at Xi'an Jiaotong University (2025–2027)
-- 🤝 Available for **freelance and contract projects** · open to internships from September 2027
 
 ### Selected Projects
 
@@ -67,5 +66,3 @@ I'm an engineering student pursuing dual degrees at **Centrale Lyon** and **Xi'a
   <a href="https://www.linkedin.com/in/riad-attou"><img src="https://img.shields.io/badge/LinkedIn-Riad%20Attou-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:attou.rd@gmail.com"><img src="https://img.shields.io/badge/Email-attou.rd%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<p align="center"><i>Available for freelance and contract projects · open to internships from September 2027.</i></p>
